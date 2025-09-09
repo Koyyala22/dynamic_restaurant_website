@@ -1,0 +1,35 @@
+
+
+
+
+
+/*navbar*/
+
+.navbar{
+	position: sticky;
+	top: 0;
+	z-index: 2;
+}
+
+.wel-section{
+	background-image: url(../images/background-vector.jpg) ;
+}
+
+.spacing{
+	margin-top: 50px;
+}
+
+.abt-imge{
+	width: 100%;
+	height: auto;
+}
+
+body{
+	background-color: #F5F5DC	;
+}
+
+.menu-card{
+	width: 18rem;
+
+}
+
